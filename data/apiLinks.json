@@ -1,0 +1,7 @@
+{
+    "baseUrl": "https://api.helldivers2.dev/raw/api",
+    "endpoints": {
+        "warAssignment": "/v2/Assignment/War/801",
+        "newsFeed": "/NewsFeed/801"
+    }
+}

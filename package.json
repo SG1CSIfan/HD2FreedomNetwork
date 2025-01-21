@@ -1,12 +1,16 @@
 {
   "name": "hdfreedomnetwork",
   "version": "1.0.0",
-  "description": "",
+  "description": "Discord bot for the 1st Colonial Regiment, that displays Major Orders, News, and other information",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "winston": "^3.17.0",
+    "winston-daily-rotate-file": "^5.0.0"
+  }
 }

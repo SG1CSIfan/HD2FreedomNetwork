@@ -1,0 +1,43 @@
+{
+  "id32": 1693742226,
+  "progress": [
+    4
+  ],
+  "expiresIn": 226170,
+  "setting": {
+    "type": 4,
+    "overrideTitle": "MAJOR ORDER",
+    "overrideBrief": "Use the repaired DSS to repel the ongoing Illuminate invasions.",
+    "taskDescription": "",
+    "tasks": [
+      {
+        "type": 12,
+        "values": [
+          14,
+          4,
+          0,
+          0
+        ],
+        "valueTypes": [
+          3,
+          1,
+          11,
+          12
+        ]
+      }
+    ],
+    "rewards": [
+      {
+        "type": 1,
+        "id32": 897894480,
+        "amount": 55
+      }
+    ],
+    "reward": {
+      "type": 1,
+      "id32": 897894480,
+      "amount": 55
+    },
+    "flags": 0
+  }
+}
